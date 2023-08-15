@@ -59,7 +59,6 @@ int main() {
   Book* newBook = new Novel("Title", "Author", 200, false, "Fiction");
   myLibrary.checkIn(newBook);
   myLibrary.displayTitles();
-  // More operations here...
   return 0;
 }
 ```
