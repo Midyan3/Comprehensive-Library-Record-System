@@ -49,7 +49,7 @@ C++ class named `LibraryRecord` to manage a collection of books. It supports ope
 
 ## Usage
 
-Include the `LibraryRecord.hpp` file in your project and utilize the class as needed. Below is a basic example of how to use the `LibraryRecord` class.
+Below is a basic example of how to use the `LibraryRecord` class.
 
 ```cpp
 #include "LibraryRecord.hpp"
